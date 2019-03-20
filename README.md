@@ -10,7 +10,8 @@ Editing Position of a Node (and edges too).
 ![](https://i.imgur.com/vw00dU7.gif)
 
 Navigating through the graph
-![](https://gph.is/g/aXnlnO4)
+
+![](https://media.giphy.com/media/7SUdNKC53U5nQj0qZ7/giphy.gif)
 
 
 - The Editor shows a 3D Complete Graph (in which every pair of distinct vertices is connected by a unique edge)
