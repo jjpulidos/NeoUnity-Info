@@ -11,8 +11,7 @@ Editing Position of a Node (and edges too).
 
 Navigating through the graph
 
-![](https://imgur.com/3DUUpWM.gif)
-
+> see Snap2.gif (is possible that the gif go slow, i recommend download the GIF for better visualization of the navigation or wait to the complete charge of the GIF)
 
 - The Editor shows a 3D Complete Graph (in which every pair of distinct vertices is connected by a unique edge)
 - The Editor allows you take a node or a set of nodes and move like you want.
