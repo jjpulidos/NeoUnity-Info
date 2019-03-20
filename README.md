@@ -11,7 +11,7 @@ Editing Position of a Node (and edges too).
 
 Navigating through the graph
 
-![](Snap2.gif)
+![](https://giphy.com/gifs/7SUdNKC53U5nQj0qZ7/html5)
 
 
 - The Editor shows a 3D Complete Graph (in which every pair of distinct vertices is connected by a unique edge)
